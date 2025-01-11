@@ -4,7 +4,7 @@ WORKDIR /testApp
 
 COPY requirement.txt .
 
-RUN pip install -r requrement.txt
+RUN pip install -r requirement.txt
 
 COPY . .
 

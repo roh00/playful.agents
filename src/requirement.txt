@@ -4,4 +4,4 @@ fastapi
 uvicorn
 groq
 gunicorn
-phi
+phi==1.2.3

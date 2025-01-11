@@ -1,0 +1,6 @@
+python-dotenv
+duckduckgo-search
+fastapi
+uvicorn
+groq
+gunicorn
